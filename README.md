@@ -1,4 +1,11 @@
-## Olá, Sou o Rubens👋
+## <Hello Word! Sou o Rubens👋/>
+<img align="right" height="460em" src="https://raw.githubusercontent.com/gist/Rubens-Dev-UIUX/58f9fc0779533b891e44091d7f5ae31a/raw/0bfdbcb34f565eeb393efba3344186bf1e8a4ef8/githubcard.svg"/>
+
+- 👨🏽‍🎓 Sou Formado em Análise e Desenvolvimento de Sistemas e apaixonado pela experiencia do usuário.
+- 👨🏽‍💻 Trabalhei 3 anos como Analista de Software - IoT Global 
+- 📁 Tive a oportunidade de atuar em alguns projetos como Freelancer
+- 📚 Sempre estudando: Inglês, Javascript, CSS, React Js, Node Js, Figma, SQL e APIs
+- 🧑🏽‍🦱 Adoro estudar, trabalhar em equipe, rascunhar no papel, levantar ideias e idealizar produtos. Estou sempre buscando me aperfeiçoar profissionalmente me tornando 1% melhor de mim a cada dia.
 
 &nbsp;
 &nbsp;
@@ -9,9 +16,9 @@
 &nbsp;
 &nbsp;
 
-## My Skills 
+## Minhas Habilidades
 
-#### Development:
+#### Desenvolvimento:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -30,7 +37,7 @@
 ![AfterEffectss](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-#### Workstation Tools:
+#### Ferramentas de trabalho( Além do Office 365):
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
@@ -39,7 +46,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contatos:
 <div>
   <a href="https://www.linkedin.com/in/rubens-uiux/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/rubens-uiux" target="_blank"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
@@ -51,4 +58,20 @@
 &nbsp;
 &nbsp;
 
-![Snake animation](https://github.com/Rubens-Dev-UIUX/Rubens-Dev-UIUX/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Rubens-Dev-UIUX/Rubens-Dev-UIUX/blob/output/github-contribution-grid-snake.svg)* -->
+
+```javascript
+function contratarRubens() {
+
+let cv = Curriculo Rubens;
+
+if(cv === interessante ) {
+ console.log("Parabéns!")
+} else {
+console.log("Seu currículo estará em nosso banco de dados")
+ }
+};
+
+contratarRubens();
+
+```
