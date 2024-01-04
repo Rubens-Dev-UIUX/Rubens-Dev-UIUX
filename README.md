@@ -1,4 +1,4 @@
-## <Hello Word! Sou o Rubens👋/>
+## <Hello World! Sou o Rubens👋/>
 <img align="right" height="460em" src="https://raw.githubusercontent.com/gist/Rubens-Dev-UIUX/58f9fc0779533b891e44091d7f5ae31a/raw/0bfdbcb34f565eeb393efba3344186bf1e8a4ef8/githubcard.svg"/>
 
 - 👨🏽‍🎓 Sou Formado em Análise e Desenvolvimento de Sistemas e apaixonado pela experiencia do usuário.
