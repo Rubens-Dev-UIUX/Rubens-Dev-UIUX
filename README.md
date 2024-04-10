@@ -11,7 +11,7 @@
 &nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubens-Dev-UIUX&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubens-Dev-UIUX&layout=compact&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-nine-rho-58.vercel.app/api/top-langs/?username=Rubens-Dev-UIUX&layout=compact&show_icons=true&theme=tokyonight)
 
 &nbsp;
 &nbsp;
