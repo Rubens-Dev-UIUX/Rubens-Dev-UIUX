@@ -1,12 +1,11 @@
 ## <Hello World! Sou o Rubens👋/>
 <img align="right" height="460em" src="https://raw.githubusercontent.com/gist/Rubens-Dev-UIUX/58f9fc0779533b891e44091d7f5ae31a/raw/0bfdbcb34f565eeb393efba3344186bf1e8a4ef8/githubcard.svg"/>
 
-- 👨🏽‍🎓 Sou Formado em Análise e Desenvolvimento de Sistemas e apaixonado pela experiencia do usuário.
-- 👨🏽‍💻 Trabalhei 3 anos como Analista de Software - IoT Global 
-- 📁 Tive a oportunidade de atuar em alguns projetos como Freelancer
-- 📚 Sempre estudando: Inglês, Javascript, CSS, React Js, Node Js, Figma, SQL e APIs
-- 🧑🏽‍🦱 Adoro estudar, trabalhar em equipe, rascunhar no papel, levantar ideias e idealizar produtos. Estou sempre buscando me aperfeiçoar profissionalmente me tornando 1% melhor de mim a cada dia.
-
+- 👨🏽‍🎓 Formado em Análise e Desenvolvimento de Sistemas, especializado em UX e apaixonado por Design.
+- 👨🏽‍💻 3 anos de experiência no mercado de tecnologia atuando em cargos de desenvolvimento, suporte, UX/UI e Design. 
+- 📁 Expert em projetos que exigem um relacionamento mais próximo do cliente, agindo diretamente em suas maiores dores, proporcionando soluções de excelência.
+- 📚 Sempre aperfeiçoando: Inglês, Javascript, CSS, React Js, Figma, SQL, APIs, Photoshop, After Effects e Premiere Pro.
+- 🧑🏽‍🦱 Adoro estudar, trabalhar em equipe, rascunhar no papel, levantar ideias e idealizar produtos. Estou sempre buscando me tornar 1% mais próximo do profissional que sempre precisei ser.
 &nbsp;
 &nbsp;
 
