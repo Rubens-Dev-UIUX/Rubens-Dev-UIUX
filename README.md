@@ -29,6 +29,13 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+#### Dados:
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![PowerQuery]()&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+
 #### UI•UX:
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
@@ -47,8 +54,8 @@
 
 ## Contatos:
 <div>
-  <a href="https://www.linkedin.com/in/rubens-uiux/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/rubens-uiux" target="_blank"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rubens-analyst/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/rubens-analyst" target="_blank"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href = "mailto:rubens.bnascimento74@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=5511984896117&text=Ol%C3%A1%20Rubens,%20Tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
